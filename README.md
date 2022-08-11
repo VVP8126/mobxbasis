@@ -2,8 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## MobX is more simple than redux - expecially for a work with async functions
+Original example see at:
+https://www.youtube.com/watch?v=jn-L1SFYdIc
 
+## Available Scripts
 In the project directory, you can run:
 
 ### `npm start`

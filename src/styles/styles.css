@@ -44,10 +44,11 @@
 }
 .btn:hover {
   background-color: #333;
+  color: white;
 }
 .blockWidth50 {
   width:50%;
-  min-width: 150px;
+  min-width: 160px;
   display: block;
   margin:0 auto;
 }
@@ -70,3 +71,11 @@
   text-align: center;
   font-size: 24px;
 }
+.inputWidth100 {
+  width:95%;
+  display: block;
+  margin: 0 auto;
+  padding:1px;
+  font-size: 24px;
+}
+
